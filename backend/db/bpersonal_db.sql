@@ -77,11 +77,10 @@ VALUES
     (1, '/uploads/cabin.JPG', 'Cingular, raising the bar.'),
     (1, '/uploads/yuki.jpg', 'This is my doge'),
     (1, '/uploads/yuki_beach.JPG', 'This is my doge on the beach'),
-    (4, '/uploads/Physical_Grafitti.jpg', '96 St. Marks Place. Led Zeppelin. If you know you know'),
     (4, '/uploads/summer_Days.jpg', 'summer days series in the park'),
     (4, '/uploads/bullit.jpg', 'call Bullit'),
     (1, '/uploads/snowboarding.gif', 'We shredding out hereeeeee'),
-    (3, 'backend/public/uploads/Anahata GIF-downsized_large.gif', 'angry screaming noises intensify');
+    (3, '/uploads/Anahata GIF-downsized_large.gif', 'angry screaming noises intensify');
 
 
 INSERT INTO comments

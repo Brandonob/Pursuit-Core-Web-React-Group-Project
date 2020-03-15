@@ -72,7 +72,7 @@ VALUES
     (3, '/uploads/83265522_3243496319013151_2072753519152070656_o.jpg', 'Posted up on the stage'),
     (2, '/uploads/wavesvideo.gif', 'Get ya scuba gear because you just might drown'),
     (1, '/uploads/canyons.JPG', 'Adventure in the canyons'),
-    (2, 'uploads/KOBE.gif', 'RIP to one of the greats'),
+    (2, '/uploads/KOBE.gif', 'RIP to one of the greats'),
     (3, '/uploads/62490637_2734115156617939_6992105001522823168_o.jpg', 'Posted up on this stool'),
     (1, '/uploads/cabin.JPG', 'Cingular, raising the bar.'),
     (1, '/uploads/yuki.jpg', 'This is my doge'),

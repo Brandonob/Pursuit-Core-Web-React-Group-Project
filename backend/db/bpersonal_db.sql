@@ -79,13 +79,8 @@ VALUES
     (1, '/uploads/yuki_beach.JPG', 'This is my doge on the beach'),
     (4, '/uploads/summer_Days.jpg', 'summer days series in the park'),
     (4, '/uploads/bullit.jpg', 'call Bullit'),
-<<<<<<< HEAD
-    (1, '/uploads/snowboarding.gif', 'We shredding out hereeeeee');
-    
-=======
     (1, '/uploads/snowboarding.gif', 'We shredding out hereeeeee'),
     (3, '/uploads/Anahata GIF-downsized_large.gif', 'angry screaming noises intensify');
->>>>>>> 616c77c7a0849aed87e5bfe23897962dbeb2f046
 
 
 INSERT INTO comments

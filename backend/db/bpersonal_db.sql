@@ -80,8 +80,8 @@ VALUES
     (4, '/uploads/Physical_Graffiti.jpg', '96 St. Marks Place. Led Zeppelin. If you know you know'),
     (4, '/uploads/summer_Days.jpg', 'summer days series in the park'),
     (4, '/uploads/bullit.jpg', 'call Bullit'),
-    (1, '/uploads/snowboarding.gif', 'We shredding out hereeeeee'),
-    (3, 'backend/public/uploads/Anahata GIF-downsized_large.gif', 'angry screaming noises intensify');
+    (1, '/uploads/snowboarding.gif', 'We shredding out hereeeeee');
+    
 
 
 INSERT INTO comments

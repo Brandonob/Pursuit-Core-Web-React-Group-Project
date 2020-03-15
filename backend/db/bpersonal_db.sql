@@ -68,15 +68,15 @@ INSERT INTO posts
     (owner_id, post_image_url, body)
 VALUES
     (1, '/uploads/graduation.jpg', 'Blood, sweat, and tears. Graduation'),
-    (2, '/uploads/IMG_4660.jpg', 'Links and drinks'),
     (3, '/uploads/83265522_3243496319013151_2072753519152070656_o.jpg', 'Posted up on the stage'),
-    (2, '/uploads/wavesvideo.gif', 'Get ya scuba gear because you just might drown'),
     (1, '/uploads/canyons.JPG', 'Adventure in the canyons'),
-    (2, '/uploads/KOBE.gif', 'RIP to one of the greats'),
     (3, '/uploads/62490637_2734115156617939_6992105001522823168_o.jpg', 'Posted up on this stool'),
     (1, '/uploads/cabin.JPG', 'Cingular, raising the bar.'),
     (1, '/uploads/yuki.jpg', 'This is my doge'),
     (1, '/uploads/yuki_beach.JPG', 'This is my doge on the beach'),
+    (2, '/uploads/wavesvideo.gif', 'Get ya scuba gear because you just might drown'),
+    (2, '/uploads/IMG_4660.jpg', 'Links and drinks'),
+    (2, '/uploads/KOBE.gif', 'RIP to one of the greats'),
     (4, '/uploads/summer_Days.jpg', 'summer days series in the park'),
     (4, '/uploads/bullit.jpg', 'call Bullit'),
     (1, '/uploads/snowboarding.gif', 'We shredding out hereeeeee'),
@@ -128,8 +128,8 @@ VALUES
     (3, 4, 'on'),
     (3, 4, 'the'),
     (3, 4, 'block'),
-    (1, 14, 'Shreddin'),
-    (1, 14, 'Snowboardin');
+    (1, 13, 'Shreddin'),
+    (1, 13, 'Snowboardin');
 
 
 
